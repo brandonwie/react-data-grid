@@ -1,9 +1,10 @@
 {
-  "name": "react-data-grid",
-  "version": "7.0.0-beta.11",
+  "name": "@brandonwie/react-data-grid",
+  "version": "1.0.0",
   "license": "MIT",
-  "description": "Feature-rich and customizable data grid React component",
+  "description": "Test publishing ",
   "keywords": [
+    "brandonwie",
     "react",
     "data grid"
   ],
